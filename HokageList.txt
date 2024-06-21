@@ -1,0 +1,8 @@
+    Hokage List
+1. Hashirama Senju
+2. Tobirama Senju
+3. Hiruzen Sarutobi
+4. Minato Namikaze
+5. Tsunade
+6. Kakashi Hatake
+7. Naruto Uzumaki
